@@ -1,0 +1,5 @@
+global = home/.local/share/plasma/look-and-feel
+plasma = home/.local/share/plasma/desktoptheme
+colors = home/.local/share/color-schemes
+window decorations = home/.local/share/aurorae/themes
+cursors = home/.icons (maybe = home/.local/share/icons)

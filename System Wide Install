@@ -1,0 +1,5 @@
+global = usr/share/plasma/look-and-feel
+plasma style = usr/share/plasma/desktoptheme
+colors = usr/share/color-schemes
+window decorations = usr/share/aurorae/themes
+cursors = usr/share/icons (maybe)
