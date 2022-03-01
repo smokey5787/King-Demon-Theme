@@ -1,2 +1,6 @@
 # King-Demon-Theme
-KDE Theme - Window Decoration Colour Scheme and Wallpaper
+Theme Finalised 01/02/22
+
+TODO
+Fix script for installation
+Properly Licence and Credit Authors of original themes
